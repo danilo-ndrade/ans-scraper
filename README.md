@@ -24,7 +24,6 @@ Script para fazer download e compactar os anexos AnexoI.pdf(A lista de consultas
 1. **Crie o ambiente virtual python**
   - python3 -m venv venv
   - source venv/bin/activate  # Linux/Mac
-  - # ou
   - venv\Scripts\activate     # Windows
 
 2. **Instale as dependências**
